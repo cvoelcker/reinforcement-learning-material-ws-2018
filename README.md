@@ -1,4 +1,4 @@
-# reinforcement-learning-material-ws-2018
+# Reinforcement Learning material for the winter semester 2018
 This repository collects supplementary material to study reinforcement learning with a focus on topics covered by the TU Darmstadt IAS lecture on reinforcement learning.
 
 The repository is structured by topics and is basically a collection of ressources which explain or highlight different algorithms and theories covered in the lecture. All material should be categorized into four different tiers: introductory light reading (i.e. medium posts, non-scientific tutorials), research papers (preferably with arxiv links), textbooks (only if they are available via ULB Darmstadt) and code examples.
