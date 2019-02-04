@@ -9,10 +9,17 @@ The repository is structured by topics and is basically a collection of ressourc
 
 - [TUTORIAL] Matrix cookbook: https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf
   - All the pesky matrix and vector gradients, but only useful as a cheatsheet, not as an accessible introduction.
-
+- [TUTORIAL] Lagrangian quickly explained (argmin blog): http://www.argmin.net/2016/05/31/mechanics-of-lagrangians/
+  - A very nice and painless intro to lagrangian optimization. Interestingly, you can even derive backprop via lagrangian methods http://www.argmin.net/2016/05/18/mates-of-costate/
 
 ### Foundations of MDP and reinforcement learning
 
+- [BOOK] THE Sutton book http://incompleteideas.net/book/bookdraft2017nov5.pdf
+  - Very good for the intuition, slightly less mathy then Jan Peter's general approach
+- [TUTORIAL] arg min blog: http://www.argmin.net/2018/06/25/outsider-rl/
+  - Very detailed in depth tour through reinforcement learning from a strong optimization point of view. Highly opinionated at times, but incredibly interesting. Specific highlights include
+   an LQR introduction http://www.argmin.net/2018/02/08/lqr/, a brutal takedown of policy gradient (not necessarily true, but very interesting nonetheless) 
+   http://www.argmin.net/2018/02/26/nominal/, a PID control introduction for those who slept through CER http://www.argmin.net/2018/04/19/pid/
 
 ### Policy and value iteration
 
