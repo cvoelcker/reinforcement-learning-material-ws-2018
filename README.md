@@ -1,7 +1,7 @@
 # reinforcement-learning-material-ws-2018
 This repository collects supplementary material to study reinforcement learning with a focus on topics covered by the TU Darmstadt IAS lecture on reinforcement learning.
 
-The repository is structured by topics and is basically a collection of ressources which explain or highlight different algorithms and theories covered in the lecture. All material should be categorized into four different tiers: introductory light reading (i.e. medium posts, non-scientific tutorials), research papers (preferably with arxiv links), textbooks (only if they are available via ULB Darmstad) and code examples.
+The repository is structured by topics and is basically a collection of ressources which explain or highlight different algorithms and theories covered in the lecture. All material should be categorized into four different tiers: introductory light reading (i.e. medium posts, non-scientific tutorials), research papers (preferably with arxiv links), textbooks (only if they are available via ULB Darmstadt) and code examples.
 
 ## Materials by topic
 
@@ -20,6 +20,7 @@ The repository is structured by topics and is basically a collection of ressourc
   - Very detailed in depth tour through reinforcement learning from a strong optimization point of view. Highly opinionated at times, but incredibly interesting. Specific highlights include
    an LQR introduction http://www.argmin.net/2018/02/08/lqr/, a brutal takedown of policy gradient (not necessarily true, but very interesting nonetheless) 
    http://www.argmin.net/2018/02/26/nominal/, a PID control introduction for those who slept through CER http://www.argmin.net/2018/04/19/pid/
+- [Tutorial] Jonathan Hui's RL Series. Accessable, explains background.: https://medium.com/@jonathan_hui/rl-deep-reinforcement-learning-series-833319a95530
 
 ### Policy and value iteration
 
@@ -50,6 +51,8 @@ The repository is structured by topics and is basically a collection of ressourc
   - Gives an introduction to natural gradients, but doesn't highlight the derivation or the intuition in detail.
 - [PAPER] Natural evolution strategies: http://www.jmlr.org/papers/volume15/wierstra14a/wierstra14a.pdf
   - To be honest, I didn't read it yet
+-  [TUTORIAL] Policy Gradient explained accessible, good start without the complete math. https://medium.com/@jonathan_hui/rl-policy-gradients-explained-9b13b688b146
+- [Lecture] Policy Search by Pieter Abbeel. Likelihood Ratio Policy Gradient, REINFORCE, Baseline,  https://www.youtube.com/watch?v=dEHyTBJ1pSc (slides here: https://people.eecs.berkeley.edu/~pabbeel/nips-tutorial-policy-optimization-Schulman-Abbeel.pdf )
 
 ## Contribution guidelines
 
