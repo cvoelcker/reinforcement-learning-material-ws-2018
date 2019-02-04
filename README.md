@@ -14,6 +14,8 @@ The repository is structured by topics and is basically a collection of ressourc
 
 ### Foundations of MDP and reinforcement learning
 
+- [GITHUB] awesome-rl https://github.com/aikorea/awesome-rl
+  - List with a similar focus, and many awesome papers
 - [BOOK] THE Sutton book http://incompleteideas.net/book/bookdraft2017nov5.pdf
   - Very good for the intuition, slightly less mathy then Jan Peter's general approach
 - [TUTORIAL] arg min blog: http://www.argmin.net/2018/06/25/outsider-rl/
