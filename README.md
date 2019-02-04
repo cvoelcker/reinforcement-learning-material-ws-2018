@@ -18,6 +18,8 @@ The repository is structured by topics and is basically a collection of ressourc
   - List with a similar focus, and many awesome papers
 - [BOOK] THE Sutton book http://incompleteideas.net/book/bookdraft2017nov5.pdf
   - Very good for the intuition, slightly less mathy then Jan Peter's general approach
+- [BOOK] Algorithms for Reinforcement Learning https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf
+  - As the name says, an introduction with a strong algorithmic focus
 - [TUTORIAL] arg min blog: http://www.argmin.net/2018/06/25/outsider-rl/
   - Very detailed in depth tour through reinforcement learning from a strong optimization point of view. Highly opinionated at times, but incredibly interesting. Specific highlights include
    an LQR introduction http://www.argmin.net/2018/02/08/lqr/, a brutal takedown of policy gradient (not necessarily true, but very interesting nonetheless) 
