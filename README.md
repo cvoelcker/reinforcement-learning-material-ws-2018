@@ -62,6 +62,8 @@ The repository is structured by topics and is basically a collection of ressourc
   - Gives an introduction to natural gradients, but doesn't highlight the derivation or the intuition in detail.
 - [PAPER] Natural evolution strategies: http://www.jmlr.org/papers/volume15/wierstra14a/wierstra14a.pdf
   - To be honest, I didn't read it yet
+- [Paper] TRPO Paper: https://arxiv.org/pdf/1502.05477.pdf
+  - Introduces trust region policy optimization and is all in all very well written
 -  [TUTORIAL] Policy Gradient: https://medium.com/@jonathan_hui/rl-policy-gradients-explained-9b13b688b146
   - explained accessible, good start without the complete math
 - [Lecture] Policy Search by Pieter Abbeel. Likelihood Ratio Policy Gradient, REINFORCE, Baseline: https://www.youtube.com/watch?v=dEHyTBJ1pSc 
