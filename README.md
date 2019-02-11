@@ -64,6 +64,8 @@ The repository is structured by topics and is basically a collection of ressourc
   - To be honest, I didn't read it yet
 - [Paper] TRPO Paper: https://arxiv.org/pdf/1502.05477.pdf
   - Introduces trust region policy optimization and is all in all very well written
+- [Paper] PPO: https://arxiv.org/pdf/1707.06347.pdf
+  - Haven't read it yet
 -  [TUTORIAL] Policy Gradient: https://medium.com/@jonathan_hui/rl-policy-gradients-explained-9b13b688b146
   - explained accessible, good start without the complete math
 - [Lecture] Policy Search by Pieter Abbeel. Likelihood Ratio Policy Gradient, REINFORCE, Baseline: https://www.youtube.com/watch?v=dEHyTBJ1pSc 
